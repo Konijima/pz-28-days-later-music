@@ -1,0 +1,652 @@
+module Base
+{
+
+	sound OldMusic_preface
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/Beginning.ogg,
+		}
+	}
+
+	sound NewMusic_WWL_Solo
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/WWL_Solo,
+        }
+    }
+	sound NewMusic_32
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/32,
+        }
+    }
+
+	sound NewMusic_33
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/33,
+        }
+    }
+
+	sound NewMusic_34
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/34,
+        }
+    }
+
+	sound NewMusic_35
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/35,
+        }
+    }
+
+	sound NewMusic_36
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/36,
+        }
+    }
+
+	sound NewMusic_Travelling
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/Travelling,
+        }
+    }
+
+	sound NewMusic_TakeStock
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/TakeStock,
+        }
+    }
+
+	sound NewMusic_PassingTime
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/PassingTime,
+        }
+    }
+
+	sound NewMusic_NoTime
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/NoTime,
+        }
+    }
+
+	sound NewMusic_MoreAreComing
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/MoreAreComing,
+        }
+    }
+
+	sound NewMusic_OnlyOneWay
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/OnlyOneWay,
+        }
+    }
+
+	sound NewMusic_KeepMoving
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/KeepMoving,
+		}
+	}
+
+	sound NewMusic_GoItAlone
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/GoItAlone,
+        }
+    }
+
+	sound NewMusic_Sunrise
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/Sunrise,
+        }
+    }
+
+	sound NewMusic_HoldingOutHope
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/HoldingOutHope,
+        }
+    }
+
+	sound NewMusic_Working
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/Working,
+        }
+    }
+
+	sound NewMusic_Sunset
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/Sunset,
+        }
+    }
+
+	sound NewMusic_Mourning
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/Mourning,
+        }
+    }
+
+	sound NewMusic_LookingAround
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/LookingAround,
+        }
+    }
+
+	sound NewMusic_Waiting
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/EndCredits.ogg,
+        }
+    }
+
+	sound NewMusic_Overrun
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/FireBombingLondon.ogg,
+        }
+    }
+
+	sound NewMusic_Rest
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/Rest,
+        }
+    }
+
+	sound NewMusic_PressOn
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/PressOn,
+        }
+    }
+
+	sound NewMusic_CalmBeforeTheStorm
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/CalmBeforeTheStorm,
+        }
+    }
+
+	sound NewMusic_GetReady
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/GetReady,
+        }
+    }
+
+	sound NewMusic_EchoesFromBefore
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/EchoesFromBefore,
+        }
+    }
+
+	sound NewMusic_Surrounded
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/Surrounded,
+        }
+    }
+
+	sound NewMusic_ThePlan
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/ThePlan,
+        }
+    }
+
+	sound NewMusic_GearUp
+	{
+		category = Music,
+		master = Music,
+		clip
+        {
+            file = media/music/Gear_Up,
+        }
+    }
+
+    sound NewMusic_FinallyCalm
+    {
+        category = Music,
+        master = Music,
+        clip
+        {
+            file = media/music/Finally_Calm,
+        }
+    }
+
+    sound NewMusic_PatchUp
+    {
+          category = Music,
+          master = Music,
+          clip
+          {
+              file = media/music/PatchUp,
+          }
+     }
+
+    sound NewMusic_TheyreClose
+    {
+         category = Music,
+         master = Music,
+         clip
+         {
+             file = media/music/CottageAttack.ogg,
+         }
+    }
+
+    sound NewMusic_ThinkingOfThePast
+    {
+        category = Music,
+        master = Music,
+        clip
+        {
+            file = media/music/ThinkingOfThePast,
+        }
+    }
+
+
+    sound NewMusic_TouchAndGo
+    {
+       category = Music,
+       master = Music,
+       clip
+       {
+           file = media/music/TouchAndGo,
+       }
+    }
+
+    sound NewMusic_Tread_Carefully
+    {
+         category = Music,
+         master = Music,
+         clip
+         {
+             file = media/music/Tread_Carefully,
+         }
+    }
+
+   sound NewMusic_Everythings_Gone
+    {
+        category = Music,
+        master = Music,
+        clip
+        {
+            file = media/music/Everythings_Gone,
+        }
+    }
+
+	sound NewMusic_Alone
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/Theme7.ogg,
+		}
+	}
+
+	sound NewMusic_Barricading
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/Barricading,
+		}
+	}
+
+	sound NewMusic_Chase
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/GoGoGo.ogg,
+		}
+	}
+
+	sound NewMusic_DesperateEscape
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/Rage.ogg,
+		}
+	}
+
+	sound NewMusic_FightOrFlight
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/Fight or Flight,
+		}
+	}
+
+	sound NewMusic_Introduction
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/Introduction,
+		}
+	}
+
+	sound NewMusic_MainTheme
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/mainmenu.ogg,
+		}
+	}
+
+	sound NewMusic_MaybeNot
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/Maybe Not,
+		}
+	}
+
+	sound NewMusic_MaybeWeCanWinThis
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/Maybe We Can Win This,
+		}
+	}
+
+	sound NewMusic_Run
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/Godspeed.ogg,
+		}
+	}
+
+	sound NewMusic_SlowSad
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/Slow Sad,
+		}
+	}
+
+	sound NewMusic_TheyWereOnceHere
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/They Were Once Here,
+		}
+	}
+
+	sound NewMusic_SayingGoodbye
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/Saying Goodbye,
+		}
+	}
+
+	sound NewMusic_TheHorde
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/HelicopterChase.ogg,
+		}
+	}
+
+    sound NewMusic_Death
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/Theme3.ogg,
+		}
+	}
+	sound NewMusic_TheInevitable
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/NoMoreFilms.ogg,
+		}
+	}
+
+	sound NewMusic_TheZombieThreat
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/WalkToRegentsPark.ogg,
+		}
+	}
+
+	sound NewMusic_WhatWasLost
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/InTheHouseInAHeartbeat.ogg,
+		}
+	}
+
+	sound NewMusic_WhatWasLostActive
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/What Was Lost Active,
+		}
+	}
+
+	sound NewMusic_WhatWasLostActive2
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/What Was Lost Active 2,
+		}
+	}
+
+	sound NewMusic_WhereIsEveryone
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/NightWatch.ogg,
+		}
+	}
+
+	sound NewMusic_WorkFast
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/Work Fast,
+		}
+	}
+
+	sound NewMusic_Ambient
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/Ambient,
+		}
+	}
+
+	sound NewMusic_AmbientGuitar
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/Ambient Guitar,
+		}
+	}
+
+	sound NewMusic_AmbientLow
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/ThenThereWereTwo.ogg,
+		}
+	}
+
+	sound NewMusic_AmbientPiano
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/TheSearchForJim.ogg,
+		}
+	}
+
+	sound NewMusic_AmbientRaider
+	{
+		category = Music,
+		master = Music,
+		clip
+		{
+			file = media/music/TheChurch.ogg,
+		}
+	}
+}
