@@ -1,16 +1,5 @@
 module Base
 {
-
-	sound OldMusic_preface
-	{
-		category = Music,
-		master = Music,
-		clip
-		{
-			file = media/music/Beginning.ogg,
-		}
-	}
-
 	sound NewMusic_WWL_Solo
 	{
 		category = Music,
@@ -216,7 +205,7 @@ module Base
 		master = Music,
 		clip
         {
-            file = media/music/EndCredits.ogg,
+            file = media/music/NoMoreFilms.ogg,
         }
     }
 
@@ -306,7 +295,7 @@ module Base
 		master = Music,
 		clip
         {
-            file = media/music/Gear_Up,
+            file = media/music/CrowdBreaksOut.ogg,
         }
     }
 
@@ -346,7 +335,7 @@ module Base
         master = Music,
         clip
         {
-            file = media/music/ThinkingOfThePast,
+            file = media/music/NoMoreFilms.ogg,
         }
     }
 
@@ -387,7 +376,7 @@ module Base
 		master = Music,
 		clip
 		{
-			file = media/music/Theme7.ogg,
+			file = media/music/CottageAttack.ogg,
 		}
 	}
 
@@ -417,7 +406,7 @@ module Base
 		master = Music,
 		clip
 		{
-			file = media/music/Rage.ogg,
+			file = media/music/TowerBlock.ogg,
 		}
 	}
 
@@ -427,7 +416,7 @@ module Base
 		master = Music,
 		clip
 		{
-			file = media/music/Fight or Flight,
+			file = media/music/GoGoGo.ogg,
 		}
 	}
 
@@ -437,7 +426,7 @@ module Base
 		master = Music,
 		clip
 		{
-			file = media/music/Introduction,
+			file = media/music/Beginning.ogg,
 		}
 	}
 
@@ -457,7 +446,7 @@ module Base
 		master = Music,
 		clip
 		{
-			file = media/music/Maybe Not,
+			file = media/music/TheTunnel.ogg,
 		}
 	}
 
@@ -477,7 +466,7 @@ module Base
 		master = Music,
 		clip
 		{
-			file = media/music/Godspeed.ogg,
+			file = media/music/TheTunnel.ogg,
 		}
 	}
 
@@ -487,7 +476,7 @@ module Base
 		master = Music,
 		clip
 		{
-			file = media/music/Slow Sad,
+			file = media/music/KissOfTheDeath.ogg,
 		}
 	}
 
@@ -497,7 +486,7 @@ module Base
 		master = Music,
 		clip
 		{
-			file = media/music/They Were Once Here,
+			file = media/music/ThenThereWereTwo.ogg,
 		}
 	}
 
@@ -517,7 +506,7 @@ module Base
 		master = Music,
 		clip
 		{
-			file = media/music/HelicopterChase.ogg,
+			file = media/music/CrowdBreaksOut.ogg,
 		}
 	}
 
@@ -546,7 +535,7 @@ module Base
 		master = Music,
 		clip
 		{
-			file = media/music/WalkToRegentsPark.ogg,
+			file = media/music/CrowdBreaksOut.ogg,
 		}
 	}
 
@@ -556,7 +545,7 @@ module Base
 		master = Music,
 		clip
 		{
-			file = media/music/InTheHouseInAHeartbeat.ogg,
+			file = media/music/What Was Lost,
 		}
 	}
 
@@ -586,7 +575,7 @@ module Base
 		master = Music,
 		clip
 		{
-			file = media/music/NightWatch.ogg,
+			file = media/music/InTheHouseInAHeartbeat.ogg,
 		}
 	}
 
@@ -596,7 +585,7 @@ module Base
 		master = Music,
 		clip
 		{
-			file = media/music/Work Fast,
+			file = media/music/CrowdBreaksOut.ogg,
 		}
 	}
 
